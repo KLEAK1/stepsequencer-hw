@@ -1,6 +1,6 @@
 #include <EEPROM.h>
 
-//this is a comment to test gitHub
+//this is a comment to test gitHub, 3rd try
 int buttonPin[6] = { 7, 8, 9, 10, 14, 15 };
 int ledPin[4] = { 2, 3, 4, 5 };
 boolean lastButtonState [4] = { LOW, LOW, LOW, LOW };
